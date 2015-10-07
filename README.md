@@ -3,9 +3,9 @@ Project môn Các vấn đề hiện đại của Công Nghê thông tin
 Nhóm gồm : 
 - Ngô Đức Hải 
 - Nguyễn Thành Nam
-- Hoàng Thị Mơ
 - Nguyễn Văn Thuỷ
 - Bùi Thị Bích Thảo
+- Lê Hồng Cẩm
 Bài toán :
 Tìm hiểu để tạo những Website góc và khái niệm như hai cách ràng buộc, url tuyến và chỉ thị
 - Web Template cửa hàng:Tìm hiểu việc tạo ra các cửa hàng dựa Apps với dự án. Thực hiện thanh toán bằng paypal
